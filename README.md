@@ -43,5 +43,5 @@ UX Research · Computational Data Analysis · Interactive Prototyping
 
 ## 🎓 Currently
 
-MSc Digital & Interaction Design — Politecnico di Milano  
-Graduate Research Assistant — Human-AI Interaction
+MSc Digital & Interaction Design - Politecnico di Milano  
+Graduate Research Assistant - Human-AI Interaction
